@@ -5,7 +5,7 @@ The main JavaScript file is `main.js`.
 ## Features
 - Mobile hamburger menu toggle
 - Dynamic copyright year
-- Minecraft-style particle burst animation on title click
+- Particle burst animation on title click
 
 ## Example: Particle Burst
 ```js

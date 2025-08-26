@@ -4,7 +4,7 @@ This documentation provides a complete overview of the eaglercraftex.github.io w
 
 ## What is eaglercraftex?
 
-eaglercraftex is a modern, open source Minecraft client inspired by the 2b2t server. This site is the official landing page and documentation hub for the project.
+eaglercraftex is a modern, open source EaglercraftX client. This site is the official landing page and documentation hub for the project.
 
 - Play Minecraft in your browser
 - Cross-platform and mobile-friendly
