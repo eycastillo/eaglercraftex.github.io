@@ -1,11 +1,27 @@
 
-// Minecraft-style particle burst on title click
+// Mobile nav hamburger menu
 document.addEventListener('DOMContentLoaded', function() {
-  // Remove old contact form code if present
-  const form = document.querySelector('.contact-form');
-  if (form) form.remove();
+  // Hamburger menu toggle
+  const navToggle = document.querySelector('.mobile-nav-toggle');
+  const nav = document.querySelector('header nav');
+  if (navToggle && nav) {
+    navToggle.addEventListener('click', function() {
+      nav.classList.toggle('open');
+      navToggle.setAttribute('aria-label', nav.classList.contains('open') ? 'Close navigation' : 'Open navigation');
+    });
+    // Close nav when clicking a link (mobile)
+    nav.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => nav.classList.remove('open'));
+    });
+  }
 
-  // Particle burst effect
+  // Set copyright year dynamically
+  const copyrightYear = document.getElementById('copyright-year');
+  if (copyrightYear) {
+    copyrightYear.textContent = new Date().getFullYear();
+  }
+
+  // Minecraft-style particle burst on title click
   const title = document.querySelector('header h1');
   if (!title) return;
 
