@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the official website for **eaglercraftex**, a custom Minecraft client designed for use directly in the browser. The site is modern, responsive, and themed to match the Minecraftaesthetic.
+This is the official website for **eaglercraftex**.
 
 ## Features
 
@@ -25,8 +25,8 @@ This is the official website for **eaglercraftex**, a custom Minecraft client de
 This website is a landing page for the eaglercraftex project. To use the client or contribute:
 
 1. Visit the main repository: [eaglercraftex/eaglercraftex](https://github.com/eaglercraftex/eaglercraftex)
-2. Follow the instructions in the main repo for running or building the client.
-3. This site does not provide downloads or direct play—see the GitHub repo for all usage.
+2. Follow the instructions in the main repo for building the client.
+3. **This site does not provide downloads** — see the GitHub repo!
 
 ## Customization
 
