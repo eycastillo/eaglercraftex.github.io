@@ -128,7 +128,8 @@ h3 {
   justify-content: center;
 }
 .feature {
-  background: rgba(24, 24, 24, 0.92);
+  background: #fff;
+  color: #181818;
   border-radius: 12px;
   box-shadow: 0 2px 12px rgba(30,144,255,0.16);
   padding: 2rem 1.5rem;

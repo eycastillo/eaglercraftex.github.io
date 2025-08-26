@@ -3,37 +3,3 @@
 ## Overview
 
 This is the official website for **eaglercraftex**.
-
-## Features
-
-- **Minecraft-inspired design**: Uses a 2b2t spawn render as the background and Minecraft-style fonts/colors.
-- **Responsive layout**: Works on desktop and mobile devices.
-- **Open source**: All code is available for review and contribution.
-- **No downloads**: The client is not distributed from this site. Use the GitHub repository for all usage and instructions.
-
-## Project Structure
-
-```
-├── index.html      # Main website HTML
-├── style.css       # All custom styles
-├── main.js         # JavaScript for UI interactions
-├── README.md       # Project documentation
-```
-
-## Usage
-
-This website is a landing page for the eaglercraftex project. To use the client or contribute:
-
-1. Visit the main repository: [eaglercraftex/eaglercraftex](https://github.com/eaglercraftex/eaglercraftex)
-2. Follow the instructions in the main repo for building the client.
-3. **This site does not provide downloads** — see the GitHub repo!
-
-## Customization
-
-- **Background**: The background image is a 2b2t spawn render from June 2019. You can change it in `style.css` by editing the `body { background: ... }` property.
-- **Colors & Fonts**: The site uses neon green accents and the Minecraftia font for a Minecraft look. You can adjust these in `style.css`.
-- **Content**: Edit `index.html` to change sections, features, or links.
-
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
