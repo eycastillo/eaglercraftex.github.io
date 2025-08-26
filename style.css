@@ -1,3 +1,16 @@
+/* Breadcrumb navigation */
+.breadcrumb {
+  font-size: 0.95rem;
+  margin-bottom: 1.2rem;
+  color: #39ff14;
+}
+.breadcrumb a {
+  color: #39ff14;
+  text-decoration: underline;
+}
+.breadcrumb span {
+  color: #e0e0e0;
+}
 #about, .container #about {
   background: rgba(24, 24, 24, 0.92);
   border-radius: 12px;
